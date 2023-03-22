@@ -1,4 +1,4 @@
-#抓取landing Pageview 的 utm 跟 purchase mapping
+#抓取landing Pageview 的 utm 跟 purchase mapping, 使用session_id mapping
 
 select 
   purchase.transaction_id, 
